@@ -393,15 +393,15 @@
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=afifsylhet&show_icons=true&theme=transparent&hide_border=true&title_color=2563eb&icon_color=58A6FF&text_color=334155&bg_color=00000000&count_private=false" alt="GitHub stats" height="175" width="48%"/>
+<img src="https://github-readme-stats.shion.dev/api?username=afifsylhet&show_icons=true&theme=transparent&hide_border=true&title_color=2563eb&icon_color=58A6FF&text_color=334155&bg_color=00000000&count_private=false" alt="GitHub stats" height="175" width="48%"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afifsylhet&layout=compact&theme=transparent&hide_border=true&title_color=2563eb&text_color=334155&bg_color=00000000&langs_count=8" alt="Top languages" height="175" width="48%"/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=afifsylhet&layout=compact&theme=transparent&hide_border=true&title_color=2563eb&text_color=334155&bg_color=00000000&langs_count=8" alt="Top languages" height="175" width="48%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=afifsylhet&theme=transparent&hide_border=true&stroke=2563eb&ring=2563eb&fire=58A6FF&currStreakLabel=2563eb&background=00000000" alt="GitHub streak" height="175" width="48%"/>
+<img src="https://streak-stats.demolab.com/?user=afifsylhet&theme=transparent&hide_border=true&stroke=2563eb&ring=2563eb&fire=58A6FF&currStreakLabel=2563eb&background=00000000" alt="GitHub streak" height="175" width="48%"/>
 &nbsp;
-<img src="https://github-profile-trophy.vercel.app/?username=afifsylhet&theme=onedark&no-frame=true&column=4&margin-w=8&margin-h=8" alt="GitHub trophies" height="175" width="48%"/>
+<img src="https://github-profile-trophy-tawny.vercel.app/?username=afifsylhet&theme=onedark&no-frame=true&column=4&margin-w=8&margin-h=8" alt="GitHub trophies" height="175" width="48%"/>
 
 <br/><br/>
 
