@@ -8,7 +8,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-afifahmed.dev-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://afifahmed.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-dev.afifahmed.com-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dev.afifahmed.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-afifahmedbd-2563eb?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afifahmedbd/)
 [![Email](https://img.shields.io/badge/Email-afif.ahmed%40yahoo.com-2563eb?style=for-the-badge&logo=gmail&logoColor=white)](mailto:afif.ahmed@yahoo.com)
 [![Location](https://img.shields.io/badge/Location-Sylhet%2C%20Bangladesh%20%C2%B7%20Remote-1e40af?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
@@ -63,7 +63,7 @@
 | **Backend depth** | Go backends, multi-tenant architecture, and PostgreSQL at scale |
 | **Next.js platform** | App Router, Server Actions, and typed REST APIs |
 | **AI-assisted dev** | Cursor, Claude, GitHub Copilot for architecture planning and delivery speed |
-| **Open source** | Maintaining project repos and portfolio at [afifahmed.dev](https://afifahmed.dev) |
+| **Open source** | Maintaining project repos and portfolio at [dev.afifahmed.com](https://dev.afifahmed.com) |
 | **Opportunities** | Open to remote contract and full-time roles with international teams |
 
 </td>
@@ -344,7 +344,7 @@
 <td valign="top"><b>Developer Portfolio</b></td>
 <td valign="top">Production portfolio with MongoDB CMS, NextAuth admin dashboard, and dynamic case studies</td>
 <td valign="top"><img src="https://skillicons.dev/icons?i=nextjs,react,ts,mongodb&perline=4" width="180"/></td>
-<td valign="top"><a href="https://afifahmed.dev"><img src="https://img.shields.io/badge/Live-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white"/></a> <a href="https://github.com/afifsylhet"><img src="https://img.shields.io/badge/GitHub-2563eb?style=for-the-badge&logo=github&logoColor=white"/></a></td>
+<td valign="top"><a href="https://dev.afifahmed.com"><img src="https://img.shields.io/badge/Live-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white"/></a> <a href="https://github.com/afifsylhet"><img src="https://img.shields.io/badge/GitHub-2563eb?style=for-the-badge&logo=github&logoColor=white"/></a></td>
 </tr>
 </table>
 
@@ -466,7 +466,7 @@
 <tr>
 <td align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-afifahmed.dev-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://afifahmed.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-dev.afifahmed.com-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dev.afifahmed.com)
 [![GitHub](https://img.shields.io/badge/GitHub-afifsylhet-2563eb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/afifsylhet)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-afifahmedbd-2563eb?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afifahmedbd/)
 [![Email](https://img.shields.io/badge/Email-afif.ahmed@yahoo.com-2563eb?style=for-the-badge&logo=gmail&logoColor=white)](mailto:afif.ahmed@yahoo.com)
